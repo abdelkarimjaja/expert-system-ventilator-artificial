@@ -1,3 +1,10 @@
+/**
+* @file expert-system-ventilator-artificial.pl
+* @authors: Abdelkarim JAJA
+*           EL Mehdi Atri
+*.@date 24 January 2022
+*
+*/
 status:-
             /*========================= Begin Declaration les contants de chaque metrique ====== =========================*/
                FRmin is 15, /*FRmin: Frequence Resperatoire minimale*/
